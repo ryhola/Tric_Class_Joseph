@@ -30,3 +30,5 @@ Unit 12 and Resume Completion and Modules 23-24: Topics include The Ethical and 
 View My project-1.png or https://express.adobe.com/post/JADY9qe5AUvOR/ to view my logo
 
 View the DecisionFlowchart.pdf for a decision making flowchart.
+
+View the Python.png for a number comparing script. 
